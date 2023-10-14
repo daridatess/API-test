@@ -2,7 +2,8 @@
   "user": [
     { "id": 1, "title": "Andrei" },
     { "id": 2, "title": "Dima" },
-    { "id": 3, "title": "Alexei" }
+    { "id": 3, "title": "Alexei" },
+    { "id": 4, "title": "Sergei" }
   ],
   "coment": [
     { "id": 1, "body": "Lushiy kloun", "postId": 1 },
